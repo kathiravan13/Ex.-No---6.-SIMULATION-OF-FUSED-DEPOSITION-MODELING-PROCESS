@@ -24,8 +24,8 @@
 ## Output:
 ![image](https://github.com/SAKTHISWAR/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/blob/main/7.png)
 
-### Name: ARHAM S
-### Register Number: 212222110005
+### Name: KATHIRAVAN.P
+### Register Number: 212222230063
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
